@@ -1,0 +1,6 @@
+auto_push_msg_branch.sh
+/wordpress-nginx-docker/data
+/wordpress-nginx-docker/logs
+/wordpress-nginx-docker/wordpress
+/wordpress-nginx-docker/mysql
+docker-compose.yml
